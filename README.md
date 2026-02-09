@@ -1,1 +1,1 @@
-# Corep-Assistant-rag-bot-
+# Corep-Assistant-rag-bot
